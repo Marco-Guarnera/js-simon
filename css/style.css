@@ -1,0 +1,35 @@
+/* Utilities */
+
+/* Wrapper */
+.wrapper {
+    margin: 0 auto;
+    max-width: 750px;
+}
+
+/* Flexbox */
+.flex {
+    display: flex;
+}
+
+.flex.column {
+    flex-direction: column;
+}
+
+/* Layout */
+
+/* Wrapper */
+#wrapper {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Timer */
+#timer {
+    font-size: 5rem;
+}
+
+/* Numeri casuali */
+#random-numbers {
+    font-size: 2.5rem;
+}
